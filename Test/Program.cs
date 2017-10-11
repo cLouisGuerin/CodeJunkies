@@ -10,9 +10,7 @@ namespace Test
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello ik ben Dennis");
-            Console.WriteLine("Ja, dat zie ik");
-            Console.ReadLine();
+            
         }
     }
 }
