@@ -13,6 +13,36 @@ namespace Test
 
         static void Main(string[] args)
         {
+            Console.WindowHeight = 20;
+            Console.WindowWidth = 128;
+
+            Console.WriteLine("+----------------------------------------------------------------------------------------------------------------------------+");
+            Console.WriteLine("|                                                                                                                            |");
+            Console.WriteLine("|    o.OOoOoo                                      oOoOOoOOo o                 .oOOOo.                                       |");
+            Console.WriteLine("|     O                                                o     O                 o     o                                       |");
+            Console.WriteLine("|     o                                                o     o                 O.                                            |");
+            Console.WriteLine("|     ooOO                                             O     O                  `OOoo.                                       |");
+            Console.WriteLine("|     O       .oOo  .oOo  .oOoO' .oOo. .oOo.           o     OoOo. .oOo.             `O .oOo. 'o     O .oOo. `OoOo. .oOo     |");
+            Console.WriteLine("|     o       `Ooo. O     O   o  O   o OooO'           O     o   o OooO'              o OooO'  O  o  o OooO'  o     `Ooo.    |");
+            Console.WriteLine("|     O           O o     o   O  o   O O               O     o   O O           O.    .O O      o  O  O O      O         O    |");
+            Console.WriteLine("|     ooOooOoO `OoO' `OoO' `OoO'o oOoO' `OoO'          o'    O   o `OoO'        `oooO'  `OoO'  `Oo'oO' `OoO'  o     `OoO'    |");
+            Console.WriteLine("|                                 O                                                                                          |");
+            Console.WriteLine("|                                 o'            Press Enter To Continue                                                      |");
+            Console.WriteLine("|                                                                                                                            |");
+            Console.WriteLine("|     2017 - CodeJunkies                                                                                                     |");
+            Console.WriteLine("+----------------------------------------------------------------------------------------------------------------------------+");
+            Console.WriteLine("|                                                                                                                            |");
+            Console.WriteLine("+----------------------------------------------------------------------------------------------------------------------------+");
+            Console.WriteLine("|                                                                                                                            |");
+            Console.WriteLine("+----------------------------------------------------------------------------------------------------------------------------+");
+            Console.SetCursorPosition(2, 17);
+            Console.ReadLine();
+
+
+
+            Console.Clear();
+
+
             string strText = "Intro: \n" +
                "It’s the year 1888. \n" +
                "It's 2:00 am in the morning when you left the pub.\n" +
