@@ -60,7 +60,7 @@ namespace Test
             }
 
             Console.ReadLine();
-
+            abcd
             string command;
             command = Console.ReadLine();
 
