@@ -60,7 +60,7 @@ namespace Test
             }
 
             Console.ReadLine();
-            abcd
+            
             string command;
             command = Console.ReadLine();
 
@@ -85,6 +85,8 @@ namespace Test
             }
             while (command == "Y");
 
+
+            //toilet
             Console.WriteLine("+----------------------------------------------------------------------------------------------------------------------------+");
             Console.WriteLine("|                                                                                                                            |");
             Console.WriteLine("|                                               +----------------------------------------+                                   |");
@@ -105,6 +107,8 @@ namespace Test
             Console.WriteLine("|                                                                                                                            |");
             Console.WriteLine("+----------------------------------------------------------------------------------------------------------------------------+");
 
+
+            //mortuarium
             Console.WriteLine("+----------------------------------------------------------------------------------------------------------------------------+");
             Console.WriteLine("|                                                                                                                            |");
             Console.WriteLine("| +-----+  +-----+  +-----+  +-----+  +-----+  +-----+  +-----+  +-----+                                                     |");
@@ -125,21 +129,88 @@ namespace Test
             Console.WriteLine("|                                                                                                                            |");
             Console.WriteLine("+----------------------------------------------------------------------------------------------------------------------------+");
 
+            //hall
+            Console.WriteLine("+----------------------------------------------------------------------------------------------------------------------------+");
+            Console.WriteLine("|                                                                                                                            |");
+            Console.WriteLine("|                                                                                                                            |");
+            Console.WriteLine("|                                                                                                                            |");
+            Console.WriteLine("|       +--------+                   +--------+                 +--------+                             +--------+            |");
+            Console.WriteLine("|       |        |                   |        |                 |        |                             |        |            |");
+            Console.WriteLine("|       |        |                   |        |                 |        |                             |        |            |");
+            Console.WriteLine("|       |        |                   |        |                 |        |                             |        |            |");
+            Console.WriteLine("|       |        |                   |        |                 |        |                             |        |            |");
+            Console.WriteLine("|       |      +-+                   |      +-+                 |      +-+                             |      +-+            |");
+            Console.WriteLine("|       |        |                   |        |                 |        |                             |        |            |");
+            Console.WriteLine("|       |        |                   |        |                 |        |                             |        |            |");
+            Console.WriteLine("|       |        |                   |        |                 |        |                             |        |            |");
+            Console.WriteLine("|       |        |                   |        |                 |        |                             |        |            |");
+            Console.WriteLine("+-------+--------+-------------------+--------+-----------------+--------+-----------------------------+--------+------------+");
+            Console.WriteLine("|                                                                                                                            |");
+            Console.WriteLine("+----------------------------------------------------------------------------------------------------------------------------+");
+            Console.WriteLine("|                                                                                                                            |");
+            Console.WriteLine("+----------------------------------------------------------------------------------------------------------------------------+");
+
+
+            //dining room
+            Console.WriteLine("+-------------+-------------------------------------------------------------------------------------------+------------------+");
+            Console.WriteLine("|             |                                                                                           |                  |");
+            Console.WriteLine("|             |                                             +------------------------+                    |                  |");
+            Console.WriteLine("|             |                                             |      %%% %%%%%%%       |                    |                  |");
+            Console.WriteLine("|             |                                             |     %%%% %%%%%%%%%%%   |                    |                  |");
+            Console.WriteLine("|             |                 XX     XX                   |   %%%%% %         %%%  |        +-----+     |                  |");
+            Console.WriteLine("|             |                   XX XX                     |  %%%%% %   @    @   %% |        |     |     |                  |");
+            Console.WriteLine("|             |       X             X              X        | %%%%%% % (_  ()  )  %% |        |     |     |                  |");
+            Console.WriteLine("|             |       X             X              X        | %%  %%% %          %%  |        |     |     |                  |");
+            Console.WriteLine("|             |       X     XXXXXXXXXXXXXXXXXX     X        | %    %%%% %  uvuuu %%  |        |   +-+     |                  |");
+            Console.WriteLine("|             |       X        X          X        X        |       %%%% %%%%%%%%%   |        |     |     |                  |");
+            Console.WriteLine("|             |       XXXXXX   X          X   XXXXXX        +------------------------+        |     |     |                  |");
+            Console.WriteLine("|             |       X    X   X          X   X    X                                          |     |     |                  |");
+            Console.WriteLine("|             |       X    X   X          X   X    X                                          |     |     |                  |");
+            Console.WriteLine("+-------------+-------------------------------------------------------------------------------+-----+-----+------------------+");
+            Console.WriteLine("|                                                                                                                            |");
+            Console.WriteLine("+----------------------------------------------------------------------------------------------------------------------------+");
+            Console.WriteLine("|                                                                                                                            |");
+            Console.WriteLine("+----------------------------------------------------------------------------------------------------------------------------+");
+
+
+
 
             Console.WriteLine("+----------------------------------------------------------------------------------------------------------------------------+");
-            Console.WriteLine("|                            +-----------------------------+                                                                 |");
-            Console.WriteLine("|                            |    Dining Room        +---+ |                                                                 |");
-            Console.WriteLine("|                            |                       |   | |                                                                 |");
-            Console.WriteLine("|                            | +             +       |  X| |                                                                 |");
-            Console.WriteLine("|                            | |  +-+---+-+  |       |   | |                                                                 |");
-            Console.WriteLine("|                            | ++   +   +   ++       +---+ |                                                                 |");
-            Console.WriteLine("|                            |                             |                                                                 |");
-            Console.WriteLine("|                            |                             |                                                                 |");
-            Console.WriteLine("|                            +-----------------------------+                                                                 |");
             Console.WriteLine("|                                                                                                                            |");
             Console.WriteLine("|                                                                                                                            |");
             Console.WriteLine("|                                                                                                                            |");
             Console.WriteLine("|                                                                                                                            |");
+            Console.WriteLine("|                                                                                                                            |");
+            Console.WriteLine("|                                                                                                                            |");
+            Console.WriteLine("|                                                                                                                            |");
+            Console.WriteLine("|                                                                                                                            |");
+            Console.WriteLine("|                                                                                                                            |");
+            Console.WriteLine("|                                                                                                                            |");
+            Console.WriteLine("|                                                                                                                            |");
+            Console.WriteLine("|                                                                                                                            |");
+            Console.WriteLine("|                                                                                                                            |");
+            Console.WriteLine("+----------------------------------------------------------------------------------------------------------------------------+");
+            Console.WriteLine("|                                                                                                                            |");
+            Console.WriteLine("+----------------------------------------------------------------------------------------------------------------------------+");
+            Console.WriteLine("|                                                                                                                            |");
+            Console.WriteLine("+----------------------------------------------------------------------------------------------------------------------------+");
+            
+
+            //basement
+            Console.WriteLine("+----------------------------------------------------------------------------------------------------------------------------+");
+            Console.WriteLine("|       8             8aba    aYa                                                                                            |");
+            Console.WriteLine("|       8             8  aba    aYa                                                                                          |");
+            Console.WriteLine("|       8      aaaaaa88a   aba    aYa                                                ================================        |");
+            Console.WriteLine("|       8      8aba    aYa   a8aaaaaaa                                                ||    || ^(.)<||>(.)^ ||    ||         |");
+            Console.WriteLine("|       8      8  aba    aYa  8       8                                               ||    ||      ||      ||    ||         |");
+            Console.WriteLine("|       8aaaaaa8a   aba    aYa8       8                                               ||  (__D      ||      C__)  ||         |");
+            Console.WriteLine("|       8aba    aYa   a8aaaaaaa       8                                               ||  (__D      ||      C__)  ||         |");
+            Console.WriteLine("|       8  aba    aYa  8              8                                               ||  (__D      ||      C__)  ||         |");
+            Console.WriteLine("|       8a   aba    aYa8              8                                               ||  (__D      ||      C__)  ||         |");
+            Console.WriteLine("|        aYa   a8aaaaaaa              8                                               ||    ||      ||      ||    ||         |");
+            Console.WriteLine("|          aYa  8                     8                                              ================================        |");
+            Console.WriteLine("|            aYa8                     8                                                                                      |");
+            Console.WriteLine("|             aaaaaaaaaaaaaaaaaaaaaaaa8                                                                                      |");
             Console.WriteLine("+----------------------------------------------------------------------------------------------------------------------------+");
             Console.WriteLine("|                                                                                                                            |");
             Console.WriteLine("+----------------------------------------------------------------------------------------------------------------------------+");
@@ -147,25 +218,7 @@ namespace Test
             Console.WriteLine("+----------------------------------------------------------------------------------------------------------------------------+");
 
 
-            Console.WriteLine("+----------------------------------------------------------------------------------------------------------------------------+");
-            Console.WriteLine("|                                                                                                                            |");
-            Console.WriteLine("|                                                                                                                            |");
-            Console.WriteLine("|                                                                                                                            |");
-            Console.WriteLine("|                                                                                                                            |");
-            Console.WriteLine("|                                                                                                                            |");
-            Console.WriteLine("|                                                                                                                            |");
-            Console.WriteLine("|                                                                                                                            |");
-            Console.WriteLine("|                                                                                                                            |");
-            Console.WriteLine("|                                                                                                                            |");
-            Console.WriteLine("|                                                                                                                            |");
-            Console.WriteLine("|                                                                                                                            |");
-            Console.WriteLine("|                                                                                                                            |");
-            Console.WriteLine("|                                                                                                                            |");
-            Console.WriteLine("+----------------------------------------------------------------------------------------------------------------------------+");
-            Console.WriteLine("|                                                                                                                            |");
-            Console.WriteLine("+----------------------------------------------------------------------------------------------------------------------------+");
-            Console.WriteLine("|                                                                                                                            |");
-            Console.WriteLine("+----------------------------------------------------------------------------------------------------------------------------+");
+           
 
 
 
